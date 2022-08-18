@@ -26,6 +26,7 @@ os.system("clear")
 
 
 print("""/033[95m
+
  ██╗  ██╗██╗███╗   ██╗███████╗███████╗
  ╚██╗██╔ ██║████╗  ██║╚══███╔╝╚══███╔╝
   ╚███╔╝ ██║██╔██╗ ██║  ███╔╝   ███╔╝ 
@@ -35,9 +36,9 @@ print("""/033[95m
   """)
   
 print("\033[95m>> CODED : XinZz. ") 
-print("\033[95m>>>> TOOLS PRIVATE XINZZ")
+print("\033[95m>> TOOLS PRIVATE XINZZ")
 print()
-print("\033[91m    METODE: UDP-TCP-GET-OVH ")
+print("\033[91m>> METODE: UDP-TCP-GET-OVH ")
 print()
 ip = str(input(" \033[0;31mIP: => "))
 port = int(input(" \033[0;32mPort: => "))
