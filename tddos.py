@@ -25,7 +25,7 @@ print("""
 password ="boyz"
 
 for i in range(4):
-	pwd = input("[•] Password : ")
+	pwd = input("[•] Password :boyz")
 	j=3
 	if(pwd==password):
 		time.sleep(1)
@@ -52,9 +52,10 @@ print("""/033[95m
   
 print("\033[95m>> CODED : XinZz. ") 
 print("\033[95m>>>> TOOLS PRIVATE XINZZ")
+print()
 print("\033[91m    METODE: UDP-TCP-GET-OVH ")
 print()
-ip = str(input("  \033[0;31mIP: => "))
+ip = str(input(" \033[0;31mIP: => "))
 port = int(input(" \033[0;32mPort: => "))
 choice = str(input(" \033[94mMethods: => "))
 times = int(input(" \033[0;31mPacket: => "))
