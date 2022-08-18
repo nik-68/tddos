@@ -21,23 +21,7 @@ print("""
 \033[0;32m            ( )_) |        
 \033[0;32m             \___/         
 """)
-
-password ="boyz"
-
-for i in range(4):
-	pwd = input("[•] Password :boyz")
-	j=3
-	if(pwd==password):
-		time.sleep(1)
-		print("[•] ANALISIS PASWORD")
-		break
-	else:
-		time.sleep(2)
-		print("\033[91m[×] PASSWORD SALAH!!! ")
-		continue
-time.sleep(1)
-print("KATASANDI KAMU BENAR!!!! \033[92m[√]\033[0m ")
-time.sleep(2)
+time.sleep(3)
 os.system("clear")
 
 
