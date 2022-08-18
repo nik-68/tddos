@@ -8,6 +8,8 @@ import os,sys
 import random, socket, threading
 import os
 import getpass
+time.sleep(2)
+os.system("clear")
 
 print("""
 \033[0;32m _                         
